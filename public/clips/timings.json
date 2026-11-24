@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "duration": 11.36,
+    "frames": 533
+  },
+  "ask": {
+    "duration": 14.54,
+    "frames": 731
+  },
+  "hindi": {
+    "duration": 10.83,
+    "frames": 534
+  },
+  "emergency": {
+    "duration": 7.3,
+    "frames": 365
+  },
+  "simulator": {
+    "duration": 14.67,
+    "frames": 445
+  },
+  "forecast": {
+    "duration": 13.58,
+    "frames": 682
+  },
+  "health": {
+    "duration": 15.87,
+    "frames": 330
+  },
+  "home": {
+    "duration": 12.68,
+    "frames": 408
+  },
+  "rules": {
+    "duration": 16.47,
+    "frames": 278
+  },
+  "myths": {
+    "duration": 12.29,
+    "frames": 321
+  }
+}

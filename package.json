@@ -1,0 +1,26 @@
+{
+  "name": "anilak-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Demo video for Anilak (Remotion)",
+  "scripts": {
+    "capture": "node scripts/capture.mjs",
+    "music": "node scripts/music.mjs",
+    "studio": "remotion studio",
+    "render": "remotion render AnilakDemo out/anilak-demo.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.545",
+    "@remotion/google-fonts": "4.0.545",
+    "@remotion/media": "4.0.545",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.545"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "playwright-core": "^1.52.0",
+    "typescript": "5.9.3"
+  }
+}
